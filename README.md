@@ -1,5 +1,8 @@
 ### Plato Pizza Project
 
+![Screenshot (230)](https://github.com/Alswailm/PlatoPizza/assets/139249563/c155592d-205f-4a33-ba5b-b378ccfc4e9b)
+
+
 The mission is to create a one-page dashboard based on Pizza restaurant’s sales datasets over one year in order to improve restaurant operations and provide suggestions.
 
 At first, after collecting the datasets, I used SQL to process the datasets and combine them with each other using JOINS and then selected the columns that would be useful in the analysis.
